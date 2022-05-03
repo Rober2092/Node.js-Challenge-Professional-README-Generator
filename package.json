@@ -1,0 +1,24 @@
+{
+    "name": "readme-generator",
+    "version": "1.0.0",
+    "description": "a node application that creates a professional readme based on user input criteria",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Rober2092/Node.js-Professional-README-Generator"
+    },
+    "author": "hugo Alvarado",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Rober2092/Node.js-Professional-README-Generator/issues/"
+    },
+    "homepage": "https://github.com/Rober2092/Node.js-Professional-README-Generator/blob/main/README.md",
+    "dependencies": {
+      "axios": "^0.19.2",
+      "inquirer": "^7.1.0",
+      "util": "^0.12.3"
+    }
+  }
