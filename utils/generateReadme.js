@@ -23,7 +23,7 @@ function generateReadme(answers) {
 <br />
 This application is covered by the ${answers.license} license. 
 ## Contributing
-👪 ${answers.contributing}
+ ${answers.contributing}
 ## Tests
 ✏️ ${answers.tests}
 ## Questions
