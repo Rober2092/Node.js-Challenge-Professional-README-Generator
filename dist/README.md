@@ -21,7 +21,7 @@
 <br />
 This application is covered by the MIT license. 
 ## Contributing
-👪 hugo Alvarado
+ hugo Alvarado
 ## Tests
 ✏️ No tests are included
 ## Questions
