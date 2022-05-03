@@ -70,7 +70,7 @@ function promptUser(){
     ]);
 } 
 
-// Async function using util.promisify 
+
   async function init() {
     try {
         // Ask user questions and generate responses
