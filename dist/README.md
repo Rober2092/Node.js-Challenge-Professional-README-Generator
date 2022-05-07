@@ -23,9 +23,9 @@ This application is covered by the MIT license.
 ## Contributing
  hugo Alvarado
 ## Tests
-✏️ No tests are included
+✏️ no test included
 ## Questions
-✋  email me or reach out on GitHub<br />
+✋ email me or reach out on GitHub<br />
 <br />
 :octocat: Find me on GitHub: [rober2092](https://github.com/rober2092)<br />
 <br />
